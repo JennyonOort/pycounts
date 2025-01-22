@@ -1,8 +1,11 @@
 # pycounts_yz110
 
+[![codecov](https://codecov.io/github/JennyonOort/pycounts/graph/badge.svg?token=OM56MXFM74)](https://codecov.io/github/JennyonOort/pycounts)
+
 Calculate word counts in a text file!
 
 Author: Yuci Jenny Zhang
+
 Year: 2025
 
 ## Installation
